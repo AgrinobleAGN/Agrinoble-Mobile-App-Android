@@ -1,0 +1,5 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/menu_Report" android:title="@string/Lbl_Report" /><!--<item
+    android:id="@+id/menu_Quality"
+    android:title="@string/Lbl_Quality"/>--><item android:id="@+id/menu_Help" android:title="@string/Lbl_Help_feedback" /><!--<item
+    android:id="@+id/menu_Make_offline"
+    android:title="@string/Lbl_Make_video_offline"/>--></menu>

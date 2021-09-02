@@ -1,0 +1,2 @@
+values/attrs.xml;values/attrs.xml
+layout/meow_navigation_cell.xml;layout/meow_navigation_cell.xml

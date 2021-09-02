@@ -1,0 +1,1 @@
+<ScrollView android:layout_width="wrap_content" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><com.stripe.android.view.ShippingInfoWidget android:id="@+id/shipping_info_widget" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="12dp" /></ScrollView>

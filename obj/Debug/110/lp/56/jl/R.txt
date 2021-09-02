@@ -1,0 +1,13 @@
+int attr tviMirror 0x0
+int attr tviOverlaySurface 0x0
+int attr tviScaleType 0x0
+int id balanced 0x0
+int id fill 0x0
+int id fit 0x0
+int[] styleable VideoTextureView { 0x0, 0x0 }
+int styleable VideoTextureView_tviMirror 0
+int styleable VideoTextureView_tviScaleType 1
+int[] styleable VideoView { 0x0, 0x0, 0x0 }
+int styleable VideoView_tviMirror 0
+int styleable VideoView_tviOverlaySurface 1
+int styleable VideoView_tviScaleType 2

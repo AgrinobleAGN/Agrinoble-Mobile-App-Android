@@ -1,0 +1,2 @@
+int color default_color 0x7f020000
+int color default_high_light_color 0x7f020001

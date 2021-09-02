@@ -1,0 +1,1 @@
+<resources><declare-styleable name="BlurView"><attr format="color" name="blurOverlayColor" /></declare-styleable></resources>

@@ -1,0 +1,3 @@
+int attr blurOverlayColor 0x0
+int[] styleable BlurView { 0x0 }
+int styleable BlurView_blurOverlayColor 0

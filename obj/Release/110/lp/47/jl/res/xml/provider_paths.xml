@@ -1,0 +1,1 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android"><external-cache-path name="my_cache" path="." /><external-path name="external_files" path="Pictures/" /><external-path name="external_video_files" path="Movies/" /></paths>

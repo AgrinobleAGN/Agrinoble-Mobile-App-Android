@@ -1,0 +1,13 @@
+-keep public class * implements com.google.android.gms.cast.framework.OptionsProvider
+
+# Don't warn about the auto value in Cast SDK Proguard.
+# This is due to the dependency on transport-api:2.0.0.
+# Can be removed after transport-api exposes this in their proguard rule.
+-dontwarn com.google.auto.value.**
+
+# We keep all fields for every generated proto file as the runtime uses
+# reflection over them that ProGuard cannot detect. Without this keep
+# rule, fields may be removed that would cause runtime failures.
+-keepclassmembers class * extends com.google.android.gms.internal.cast.zzlc {
+  <fields>;
+}

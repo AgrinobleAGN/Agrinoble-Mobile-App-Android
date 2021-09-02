@@ -1,0 +1,1 @@
+<resources><declare-styleable name="BlurLayout"><attr format="float" name="blk_downscaleFactor" /><attr format="integer" name="blk_blurRadius" /><attr format="integer" name="blk_fps" /><attr format="dimension" name="blk_cornerRadius" /><attr format="float" name="blk_alpha" /></declare-styleable></resources>

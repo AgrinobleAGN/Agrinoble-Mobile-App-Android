@@ -1,0 +1,1 @@
+<selector android:exitFadeDuration="@android:integer/config_shortAnimTime" xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@drawable/md_item_selected" android:state_focused="true" /><item android:drawable="@drawable/md_item_selected" android:state_pressed="true" /><item android:drawable="@drawable/md_transparent" /></selector>

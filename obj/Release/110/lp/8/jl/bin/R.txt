@@ -1,0 +1,12 @@
+int attr blk_alpha 0x7f040001
+int attr blk_blurRadius 0x7f040002
+int attr blk_cornerRadius 0x7f040003
+int attr blk_downscaleFactor 0x7f040004
+int attr blk_fps 0x7f040005
+int drawable original_bk_logo 0x7f080001
+int[] styleable BlurLayout { 0x7f040001, 0x7f040002, 0x7f040003, 0x7f040004, 0x7f040005 }
+int styleable BlurLayout_blk_alpha 0
+int styleable BlurLayout_blk_blurRadius 1
+int styleable BlurLayout_blk_cornerRadius 2
+int styleable BlurLayout_blk_downscaleFactor 3
+int styleable BlurLayout_blk_fps 4
