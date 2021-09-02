@@ -1,0 +1,1 @@
+<resources><declare-styleable name="AutofitEditText"><attr format="dimension" name="minTextSize" /><attr format="float" name="precision" /><attr format="boolean" name="sizeToFit" /></declare-styleable></resources>
