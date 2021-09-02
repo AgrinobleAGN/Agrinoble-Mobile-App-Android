@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "596917612075",
+    "firebase_url": "https://wowonder-timeline-chat.firebaseio.com",
+    "project_id": "wowonder-timeline-chat",
+    "storage_bucket": "wowonder-timeline-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596917612075:android:38f831a41257fdc923846e",
+        "android_client_info": {
+          "package_name": "com.wowondertimeline.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596917612075-2jpif1blfg9afl06415onm091k2r78bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexlPAd9OrViIa0d-xak807tjYRFfxpE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596917612075-2jpif1blfg9afl06415onm091k2r78bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5135691635931982~1552760489"
+    }
+  ],
+  "configuration_version": "1"
+}
